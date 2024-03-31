@@ -1,5 +1,12 @@
 # Weekly Class Journal
 
+## Notes for Class 8
+
+## Notes for Class 7
+I've been pondering the essence of a "good idea" for some time. I recognized my strength in elaborating on existing ideas, yet I struggled to devise a concept that was 1) engaging and compelling, 2) enjoyable to develop, and 3) meaningful. In a discussion with Kamyar, my project partner, we explored game mechanics. I proposed a "hoarder" mechanic where accumulating items increases your power but also brings drawbacks. Initially, this idea seemed lackluster, but as we delved deeper, we found a therapeutic angle to it. Games can be profound, offering a way to navigate and process unresolved emotions actively.
+
+This led us to conceive a game centered on Alzheimer's or memory loss, where the player journeys through a relative's mind to piece together their memories. We envisioned a world that mirrors the disintegration and confusion of the mind, aiming to create an experience that resonates with the players on a deeper level.
+
 ## Notes for Class 5
 
 ## Game Analysis
