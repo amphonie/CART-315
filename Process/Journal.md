@@ -1,6 +1,23 @@
 # Weekly Class Journal
 
 ## Notes for Class 8
+I delved into the core mechanics of the game, contemplating two pivotal questions. First, how can a game mechanic embody a human defense mechanism? Second, how can we craft a scene that mirrors the aesthetic of someone's memory fading?
+
+### Mechanisms
+
+To address the mechanics question, I researched various psychological defense mechanisms. My aim was to integrate these into the game's combat system. For instance, I conceptualized a mechanic based on resilience—characterized by the player's enhanced ability to adapt and recover from stress or trauma. This ability manifests as a shield-like mechanism that temporarily mitigates damage from adversaries or forestalls memory degradation for a brief span. Players can invoke resilience when confronting formidable enemies or during critical junctures.
+
+This concept draws inspiration from the "perks" in Dead by Daylight but is adapted into a rogue-like framework, where players select their build at the start of a run. The chosen build influences memory collection, with evasive characters accessing different information than their more confrontational counterparts. However, the specifics of these interactions remain under exploration.
+
+### Aesthetics
+
+Regarding aesthetics, I assembled a mood board to encapsulate the game's visual theme. I aimed to identify elements that intuitively signify memory loss to players. My selection gravitated toward analog film aesthetics—overexposed photography, scribbles, and distortions—to evoke a sense of antiquity and fading, akin to the erosion of memories.
+
+![Moodboard Memories](https://i.imgur.com/TqZQ4ia.png)
+
+The design of the game's adversaries is still in flux, with a leaning toward representations that embody symptoms of dementia or Alzheimer's disease. These entities, potentially sketched in scribbles or depicted as dark, light-absorbing figures, symbolize the forces eroding the mind, adding a layer of ominous intrigue to the game.
+
+![Moodboard Creatures](https://imgur.com/CKP9M19.png)
 
 ## Notes for Class 7
 I've been pondering the essence of a "good idea" for some time. I recognized my strength in elaborating on existing ideas, yet I struggled to devise a concept that was 1) engaging and compelling, 2) enjoyable to develop, and 3) meaningful. In a discussion with Kamyar, my project partner, we explored game mechanics. I proposed a "hoarder" mechanic where accumulating items increases your power but also brings drawbacks. Initially, this idea seemed lackluster, but as we delved deeper, we found a therapeutic angle to it. Games can be profound, offering a way to navigate and process unresolved emotions actively.
