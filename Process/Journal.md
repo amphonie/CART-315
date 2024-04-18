@@ -1,6 +1,57 @@
 # Weekly Class Journal
 
 ## Notes for Class 8
+"Blur" - Integrating Mechanics and Narrative
+
+Today, I've made substantial progress on the foundational mechanics and narrative integration for "Blur," a game that explores the complexities of memory and perception through an interactive, psychological thriller format. Below is a detailed breakdown of the mechanics and how they interplay with the game's narrative and artistic direction.
+### Mechanics Overview:
+
+    Sanity Mechanic:
+        Function: Acts as the primary resource for the protagonist. Maintaining Sanity is crucial as it directly affects the clarity of objectives and the stability of the game environment.
+        Gameplay Impact: High Sanity levels ensure clearer objectives and stable environments. Conversely, low Sanity levels distort perceptions and increase environmental hazards by spawning more enemies.
+        Developer Note: Implementing a high-risk/high-reward system where players might deliberately lower their Sanity to gain specific advantages, such as enhanced abilities or access to hidden areas. This mechanic requires careful balancing to incentivize risk while maintaining gameplay fairness.
+
+    Focus Mechanic:
+        Function: Allows players to concentrate deeply, sacrificing Sanity to uncover crucial plot elements or secrets within the game.
+        Gameplay Impact: Using Focus decreases Sanity but increases Clarity, which will be crucial for understanding the deeper lore and unlocking narrative pathways.
+
+    Lucidity:
+        Function: Measures the protagonist's understanding and comprehension of the environment and narrative.
+        Gameplay Impact: Higher Clarity improves decision-making abilities and protects against Sanity loss, acting as a buffer and strategic resource.
+### Collectibles and Progression:
+
+    Memories: Serve as key collectibles that piece together the protagonist's life story and the underlying narrative. Players must manage their Sanity carefully to acquire and preserve these memories, which unlock new levels, backstory elements, and essential game insights.
+### Enemy Design:
+
+    Creatures: Symbolize the inner turmoil and confusion stemming from memory loss. These enemies consume memories, altering the game's world and increasing the difficulty. Defeating these creatures can restore Sanity and offer resources to strengthen the player's abilities.
+### Weapon System:
+
+   #### Concept: Weapons in "Blur" are manifestations of the protagonist's psychological defense mechanisms.
+    Examples:
+        Resilience: Acts like a shield, reducing damage and preventing memory loss temporarily.
+        Avoidant: Enhances dodging capabilities, suitable for players who prefer agility over strength.
+        Displacement: Allows players to redirect damage back to enemies, effective in crowd control.
+
+### Narrative Threads:
+
+    The protagonist revisits their own forgotten memories, unraveling hidden truths and confronting past traumas. The narrative is designed to be non-linear, with elements influenced by player choices and Sanity levels.
+
+### Artistic Direction:
+
+    A mood board has been created to visualize the game's PS1-inspired aesthetics, which align with the themes of nostalgia and the elusive nature of memory. The visual style will evoke a sense of familiarity yet alienation, enhancing the game's psychological impact.
+
+### Reflections:
+
+Integrating these mechanics into "Blur" has been a challenging yet rewarding process. The goal is to craft an experience that not only entertains but also provokes thought about the nature of memory and identity. Feedback from initial pitch presentations has been invaluable, directing adjustments to the narrative and mechanics to better align with our vision and player expectations.
+
+Next Steps:
+
+    Refine the risk-reward balance for the Sanity mechanic.
+    Expand the narrative to include more dynamic encounters influenced by player Sanity and Clarity levels.
+    Further develop the weapon upgrade system to ensure it reflects the personal growth and challenges faced by the protagonist.
+
+
+## Notes for Class 8
 I delved into the core mechanics of the game, contemplating two pivotal questions. First, how can a game mechanic embody a human defense mechanism? Second, how can we craft a scene that mirrors the aesthetic of someone's memory fading?
 
 ### Mechanisms
