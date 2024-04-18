@@ -23,6 +23,8 @@ Today's pitch presentation for "Blur" was super helpful. It provided valuable in
     Exploration of Concepts: Advised to explore liminality and hauntology to deepen the game’s thematic elements, avoiding clichéd interpretations like the backrooms.
     Media Reference: The myhouse.wad link was provided to examine how personal spaces can be effectively used in game design.
 
+### View the Pitch Presentation [here](https://github.com/amphonie/CART-315/blob/e32c43a6d72d4aca043ba234af479737b7e66cd3/Process/Blur%20CART315%20-%20Presentation.pdf).
+
 ## Notes for Class 9
 "Blur" - Integrating Mechanics and Narrative
 
