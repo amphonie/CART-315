@@ -1,6 +1,29 @@
 # Weekly Class Journal
 
-## Notes for Class 8
+## Notes for Class 11
+Today's pitch presentation for "Blur" was super helpful. It provided valuable insights from a diverse audience and set the stage for significant revisions to align the game more closely with contemporary themes and player expectations. Here's a comprehensive overview of the feedback received and the proposed changes to the game design and narrative.
+### Feedback Summary:
+
+    Terminology Adjustments:
+        Feedback indicated that terms like "Sanity" and "Lucidity" could carry negative connotations and suggested a more neutral language to describe the protagonist's mental and perceptual states.
+
+    Narrative Focus:
+        Recommendations to de-emphasize the specific focus on Alzheimer's disease, opting instead for a more general exploration of memory loss that could appeal to a broader audience.
+        Suggestion to incorporate a narrative set in a near future where Gen Z begins to experience memory issues, which ties into the retro PS2 aesthetic, symbolizing a nostalgic yet deteriorating memory landscape.
+
+    Narrative Structure:
+        Encouragement to randomize the narrative, where creatures within the game steal memory pieces, adding a layer of unpredictability and requiring players to recover these pieces to piece together the story.
+
+    Dynamic Gameplay Mechanics:
+        A dynamic environment was proposed, where lower mental clarity results in closed doors and altered spaces, adding a tangible consequence to the gameplay based on the protagonist's mental state.
+
+### Reference Inspirations:
+
+    Game References: Suggestions included studying games like "Eternal Darkness" for its sanity effects, "Memento" for its narrative structure, and "House of Leaves" for its complex and non-linear storytelling.
+    Exploration of Concepts: Advised to explore liminality and hauntology to deepen the game’s thematic elements, avoiding clichéd interpretations like the backrooms.
+    Media Reference: The myhouse.wad link was provided to examine how personal spaces can be effectively used in game design.
+
+## Notes for Class 9
 "Blur" - Integrating Mechanics and Narrative
 
 Today, I've made substantial progress on the foundational mechanics and narrative integration for "Blur," a game that explores the complexities of memory and perception through an interactive, psychological thriller format. Below is a detailed breakdown of the mechanics and how they interplay with the game's narrative and artistic direction.
@@ -38,7 +61,7 @@ Today, I've made substantial progress on the foundational mechanics and narrativ
 
 ### Artistic Direction:
 
-    A mood board has been created to visualize the game's PS1-inspired aesthetics, which align with the themes of nostalgia and the elusive nature of memory. The visual style will evoke a sense of familiarity yet alienation, enhancing the game's psychological impact.
+    A mood board has been created to visualize the game's PS2-inspired aesthetics, which align with the themes of nostalgia and the elusive nature of memory. The visual style will evoke a sense of familiarity yet alienation, enhancing the game's psychological impact.
 
 ### Reflections:
 
